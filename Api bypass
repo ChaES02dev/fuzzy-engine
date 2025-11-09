@@ -1,0 +1,6 @@
+-- API Codex bypass
+url = "https://api.stickx.top/codex/"
+payload = {
+    "urlcodex": "FULL LINK HERE"
+}
+-- not my ap.
